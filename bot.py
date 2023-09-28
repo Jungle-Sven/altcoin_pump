@@ -159,6 +159,7 @@ class DataAnalyzer:
         return result
 
 def run_all(exchange):
+    print('running...wait 2-3 minutes')
     a = DataReciever(exchange)
     dfs = a.run()
     b = DataAnalyzer(exchange)

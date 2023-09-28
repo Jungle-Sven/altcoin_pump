@@ -17,4 +17,4 @@ and wait 2-3 minutes
 - Binance
 - Kucoin
 - Bittrex
-# altcoin_pump
+
